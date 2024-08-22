@@ -1,1 +1,1 @@
-print("meow")
+print("hello welcome to computer sceince")
